@@ -8,7 +8,7 @@ import { BehaviorSubject } from 'rxjs';
   providedIn: 'root',
 })
 export class CoffeeService {
-  private apiUrl = 'http://https://backendapi-vqrs.onrender.com/api/cms';
+  private apiUrl = 'https://cms-api-nk80.onrender.com/api/cms';
 
   // public userEditPage: Boolean = false;
 

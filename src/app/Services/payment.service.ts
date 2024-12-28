@@ -6,7 +6,7 @@ import { Observable } from 'rxjs';
   providedIn: 'root',
 })
 export class PaymentService {
-  private apiUrl = 'http://https://backendapi-vqrs.onrender.com/api/cms';
+  private apiUrl = 'https://cms-api-nk80.onrender.com/api/cms';
 
   constructor(private http: HttpClient) {}
 
